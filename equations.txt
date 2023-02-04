@@ -6,3 +6,5 @@
 "HotSideGap"= 50mm
 "PCClearance"= 25mm
 "RadiatorHeight"= 275mm
+"TubeID"= 0.25in
+"TubeOD"= 0.375in
