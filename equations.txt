@@ -1,0 +1,8 @@
+﻿"PCWidth"= 172mm
+"PCLength"= 320mm
+"PCHeight"= 242mm
+"WallThickness"= 10mm
+"ThermoBarrierThickness"= 3mm
+"HotSideGap"= 50mm
+"PCClearance"= 25mm
+"RadiatorHeight"= 275mm
