@@ -1,7 +1,7 @@
 ﻿"PCWidth"= 172mm
 "PCLength"= 320mm
 "PCHeight"= 242mm
-"WallThickness"= 10mm
+"WallThickness"= 9mm
 "ThermoBarrierThickness"= 3mm
 "HotSideGap"= 50mm
 "PCClearance"= 25mm
