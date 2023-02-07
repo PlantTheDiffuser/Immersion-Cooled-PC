@@ -3,6 +3,8 @@
 "PCHeight"= 172mm'Tallest point with mobo laying flat
 "WallThickness"= 9mm'Thickness of each outer tank wall
 "ThermoBarrierThickness"= 3mm'Thickness of barrier between hot side and cold side
-"HotSideGap"= 40mm'Space in the hot side for a pump
+"HotSideGap"= 35mm'Space in the hot side for a pump
 "PCClearance"= 30mm'Clearance from top of tank to top of PC
 "RadiatorHeight"= 275mm'Final Height from ground of radiators
+"D1@Distance1"="HotSideGap"
+"AirflowGap"= 36mm'Distance between radiators and tank for airflow
