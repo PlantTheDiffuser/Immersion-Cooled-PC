@@ -1,10 +1,20 @@
-﻿"PCLength"= 316mm'Length across I/O from PS to GPU
-"PCWidth"= 242mm'Distance of longest part parallel to GPU(ussually GPU)
-"PCHeight"= 178mm'Tallest point with mobo laying flat
-"WallThickness"= 9mm'Thickness of each outer tank wall
-"ThermoBarrierThickness"= 3mm'Thickness of barrier between hot side and cold side
-"HotSideGap"= 25mm'Space in the hot side for a pump
-"PCClearance"= 30mm'Clearance from top of tank to top of PC
-"RadiatorHeight"= 275mm'Final Height from ground of radiators
-"AirflowGap"= 36mm'Distance between radiators and tank for airflow
-"VolumeSubtraction"= 230mm
+﻿"PCLength"= 316mm'Longest length across I/O from PSU to GPU
+
+"PCWidth"= 242mm'Distance of longest part perpendicular to I/O(ussually GPU)
+
+"PCHeight"= 178mm'Tallest point with mobo laying flat(usually PSU)
+
+"WallThickness"= 9mm'Thickness of each outer tank wall
+
+"ThermoBarrierThickness"= 3mm'Thickness of barrier between hot side and cold side
+
+"HotSideGap"= 25mm'Space in the hot side for a pump
+
+"PCClearance"= 30mm'Clearance from top of tank to top of PC
+
+"RadiatorHeight"= 275mm'Final Height from ground of radiators
+
+"AirflowGap"= 36mm'Distance between radiators and tank for airflow
+
+"VolumeSubtraction"= 230mm
+
