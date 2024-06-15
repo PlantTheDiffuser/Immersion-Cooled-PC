@@ -5,6 +5,6 @@
 "ThermoBarrierThickness"= 6mm'Thickness of barrier between hot side and cold side
 "HotSideGap"= 36mm'Space in the hot side for a pump
 "PCClearance"= 40mm'Clearance from top of tank to top of PC
-"RadiatorHeight"= 275mm'Final Height from ground of radiators
+"RadiatorHeight"= 277.37mm'Final Height from ground of radiators
 "AirflowGap"= 25mm'Distance between radiators and tank for airflow
 "VolumeSubtraction"= 230mm
