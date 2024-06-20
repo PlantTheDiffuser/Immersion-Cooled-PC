@@ -1,4 +1,4 @@
-﻿"PCLength"= 150mm'Length across I/O from PS to GPU
+﻿"PCLength"= 143mm'Length across I/O from PS to GPU
 "PCWidth"= 340mm'Distance of longest part parallel to GPU(ussually GPU)
 "PCHeight"= 190mm'Tallest point with mobo laying flat
 "WallThickness"= 9mm'Thickness of each outer tank wall
