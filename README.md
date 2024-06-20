@@ -11,7 +11,3 @@ Pass-through I/O
 1x Ethernet
 1x Auxiliary
 1x Power button
-
-
-IGNORE ALL FILES THAT START WITH "~$" (without the quotes)
-These files will not be present in releases
